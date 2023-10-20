@@ -18,3 +18,6 @@ Remote:
 Git remote can be used to list all the repositories on the server. You can add a remote repository by typing “git remote add <name> <url>”. You can then commit and push to that repository instead of always committing to origin/master. 
 I created a repository called test and I committed + pushed to it instead of origin. 
 
+Clone:
+Git clone allows you to take a copy of your work and clone it to your computer somewhere else. That copy is stored on your computer and you can send the updated work back when you’re done.
+
