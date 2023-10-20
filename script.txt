@@ -6,3 +6,10 @@ git init creates a new repository called .git. It is created locally and not on 
 Status:
 Use git status before and after adding files. Git status lists all the files in the current branch. Files in red are dirty files that aren’t committed. Once committed the files will be green.
 
+Add:
+Git add . adds all files to the branch. It changes the files colour from red to green that haven’t been added yet/ have been changed.
+As you can see the file colour has changed after we added the files.
+
+Commit:
+Git commit adds a new revision point in your work. By doing git commit -m “”, you can enter a name for your commit. The name is usually something new you have added into your files/code. 
+
