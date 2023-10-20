@@ -2,3 +2,7 @@ Git Guide
 
 Init:
 git init creates a new repository called .git. It is created locally and not on github.
+
+Status:
+Use git status before and after adding files. Git status lists all the files in the current branch. Files in red are dirty files that aren’t committed. Once committed the files will be green.
+
