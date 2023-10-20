@@ -31,6 +31,10 @@ Git branch lists the branches that are in the repository. You can add branches u
 I’m going to make a branch and then delete the branch using git branch -d <name>. (fingers crossed). 
 
 Log:
-Git log displays the commit history of the current branch you on are. You can navigate by pressing space and quitting by pressing q. 
+Git log displays the commit history of the current branch you on are. You can navigate by pressing space and quitting by pressing q.
+
+RM:
+Git rm is used to remove files. It should be treated with caution and only be used by people who know what they are doing.  
+ 
 
 
