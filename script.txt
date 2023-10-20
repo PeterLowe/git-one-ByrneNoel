@@ -12,4 +12,4 @@ As you can see the file colour has changed after we added the files.
 
 Commit:
 Git commit adds a new revision point in your work. By doing git commit -m “”, you can enter a name for your commit. The name is usually something new you have added into your files/code. 
-
+The name I gave the commit has now been added.
