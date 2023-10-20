@@ -25,3 +25,7 @@ This is me pushing my work to the main branch.
 Push:
 Git push is used to push the work you have committed to the main branch. It updates the remote node with the current.
  This is me pushing my work to the main branch.
+
+Branch:
+Git branch lists the branches that are in the repository. You can add branches using git branch <name>.
+I’m going to make a branch and then delete the branch using git branch -d <name>. (fingers crossed). 
