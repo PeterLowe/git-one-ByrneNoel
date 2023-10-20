@@ -29,3 +29,8 @@ Git push is used to push the work you have committed to the main branch. It upda
 Branch:
 Git branch lists the branches that are in the repository. You can add branches using git branch <name>.
 I’m going to make a branch and then delete the branch using git branch -d <name>. (fingers crossed). 
+
+Log:
+Git log displays the commit history of the current branch you on are. You can navigate by pressing space and quitting by pressing q. 
+
+
